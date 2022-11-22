@@ -1,1 +1,2 @@
 git is too hard
+git is a tool
