@@ -1,2 +1,3 @@
 git is too hard
 git is a tool
+git is fast verson control system
