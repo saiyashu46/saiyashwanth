@@ -1,6 +1,5 @@
 git is too hard
 git is a tool
-<<<<<<< HEAD
 git is fast verson control system
 git is fast control system
 git is easy
