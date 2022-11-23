@@ -2,4 +2,5 @@ git is too hard
 git is a tool
 git is fast verson control system
 git is fast control system
-git is waste
+git is nice
+git is easy
